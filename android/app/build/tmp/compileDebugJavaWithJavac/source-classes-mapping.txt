@@ -1,0 +1,14 @@
+com/mobilefront/MainApplication.java
+ com.mobilefront.MainApplication
+ com.mobilefront.MainApplication$1
+com/mobilefront/MainActivity.java
+ com.mobilefront.MainActivity
+com/mobilefront/ReactNativeFlipper.java
+ com.mobilefront.ReactNativeFlipper
+ com.mobilefront.ReactNativeFlipper$1
+ com.mobilefront.ReactNativeFlipper$2
+ com.mobilefront.ReactNativeFlipper$2$1
+com/mobilefront/BuildConfig.java
+ com.mobilefront.BuildConfig
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList

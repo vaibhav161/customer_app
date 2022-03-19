@@ -1,0 +1,25 @@
+{
+  "name": "agora-react-native-rtm",
+  "version": "1.4.8",
+  "summary": "React Native around the Agora RTM SDKs for Android and iOS agora",
+  "homepage": "https://github.com/AgoraIO/agora-react-native-rtm#readme",
+  "license": "MIT",
+  "authors": "HUI <luxuhui@agora.io> (https://github.com/LichKing-2234)",
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://github.com/AgoraIO/agora-react-native-rtm.git",
+    "tag": "1.4.8"
+  },
+  "source_files": "ios/**/*.{h,m,mm,swift}",
+  "static_framework": true,
+  "dependencies": {
+    "React": [
+
+    ],
+    "AgoraRtm_iOS": [
+      "1.4.8"
+    ]
+  }
+}
